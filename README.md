@@ -4,7 +4,8 @@
 Ce projet consiste en la conception et le développement d'un prototype de radar de recul pour systèmes embarqués. L'objectif est de mesurer la distance entre un capteur et un obstacle en temps réel, puis de traiter cette donnée pour fournir des alertes visuelles, sonores et textuelles à l'utilisateur.
 
 Contrairement aux approches procédurales classiques, ce projet utilise une **architecture Orientée Objet (C++)**, garantissant une meilleure modularité et une maintenance simplifiée du code.
-<img width="725" height="453" alt="t725" src="https://github.com/user-attachments/assets/70ce52c8-e5d3-49c6-8ae6-ca49fb625d50" />
+<img width="1702" height="742" alt="image" src="https://github.com/user-attachments/assets/0d219b9b-c04f-4415-9317-13971b64a2d4" />
+
 
 ## 🚀 Fonctionnalités Clés
 * **Mesure de précision** : Utilisation du capteur ultrasonique HC-SR04.
